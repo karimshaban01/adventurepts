@@ -585,7 +585,7 @@
                 //SMS
 
                     $api_key='86899109abf22680';
-                    $secret_key = 'NGQyMTk4ZjY5YzdkNDBlMjZlZmU4NDRhNmEzODQxODFjNmU1ZWFjN2UwY2MyYjZkZjQ0NWM2MzFlMTMyM2ZkOA==';
+                    $secret_key = '';
 
                     $postData = array(
                         'source_addr' => 'K-TRONICS',
@@ -644,7 +644,7 @@
                         $mail->Host       = 'smtp.gmail.com';   // SMTP server
                         $mail->SMTPAuth   = true;
                         $mail->Username   = 'karimxhaban@gmail.com';   // SMTP username
-                        $mail->Password   = 'szua wsjf txyo kpmd ';       // SMTP password
+                        $mail->Password   = '';       // SMTP password
                         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
                         $mail->Port       = 587;
 
