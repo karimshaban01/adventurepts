@@ -140,6 +140,8 @@ QR Code :
 
 Future Enhancements
 
+    Vehicles management module
+    Warehouse management module
     Add mobile app version
     Integrate GPS-based tracking
     Enable payment gateway for parcel billing
