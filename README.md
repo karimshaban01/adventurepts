@@ -100,6 +100,7 @@ Functional Requirements
     FR6: The system shall allow admins to manage staff.
     FR7: The system shall generate reports on parcel delivery and staff activity.
     FR8: The system shall allow real-time monitoring of delivery staff activities.
+    FR9: The system shall allow staff to print parcel receipt.
 
 Non-Functional Requirements
 
