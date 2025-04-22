@@ -108,3 +108,30 @@ Non-Functional Requirements
     NFR3: The system shall use SSL to encrypt data transmission.
     NFR4: The system shall store backups automatically every 24 hours.
     NFR5: The system shall be scalable to support over 10,000 users concurrently.
+
+Technologies Used
+
+Frontend: 
+
+    HTML, CSS, JavaScript
+    
+Backend:
+    
+    PHP
+    
+Database:
+
+    MySQL
+Deployment:
+
+    Localhost via Apache2
+    
+Mailer :
+
+    PHPMailer
+SMS Gateway :
+
+    Beem bulk SMS
+QR Code :
+
+    JavaScript
