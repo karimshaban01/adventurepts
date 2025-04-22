@@ -102,7 +102,7 @@ Functional Requirements
     FR8: The system shall allow real-time monitoring of delivery staff activities.
     FR9: The system shall allow staff to print parcel receipt.
 
-Non-Functional Requirements
+Non-Functional Requirements (Will be implemented at production stage)
 
     NFR1: The system shall be accessible 24/7 through any modern web browser.
     NFR2: The system shall respond to user actions within 3 seconds.
