@@ -19,7 +19,7 @@ DEFINITION OF TERMS
 
 SENDER
 
-    An individual or organization that initiates the shipment of a parcel through the system.
+An individual or organization that initiates the shipment of a parcel through the system.
 
     Responsibilities:
 
@@ -46,7 +46,8 @@ The intended recipient of the parcel who receives updates and confirmation of de
         Provide feedback or complaint about service.
 
 STAFF
-    Operational personnel responsible for handling, updating, and managing     parcels during transit.
+
+Operational personnel responsible for handling, updating, and managing     parcels during transit.
 
     Responsibilities:
 
@@ -63,7 +64,7 @@ STAFF
 
 ADMIN
 
-  The system supervisor with full access and control over system operations, users, and data.
+The system supervisor with full access and control over system operations, users, and data.
 
     Responsibilities:
 
