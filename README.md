@@ -87,3 +87,24 @@ OBJECTIVES
     To ensure data consistency and reliability by using centralized cloud-based databases with built-in validation, backup, and recovery mechanisms.
 
     To enable real-time monitoring of delivery staff by integrating staff activity logging and delivery status updates within the system.
+
+SOFTWARE REQUIREMENTS SPECIFICATION
+
+Functional Requirements
+
+    FR1: The system shall allow staff to log in.
+    FR2: The system shall allow staff to register parcel.
+    FR3: The system shall allow receivers to track parcels via a tracking ID.
+    FR4: The system shall allow staff to update parcel status.
+    FR5: The system shall notify senders and receivers about parcel progress.
+    FR6: The system shall allow admins to manage staff.
+    FR7: The system shall generate reports on parcel delivery and staff activity.
+    FR8: The system shall allow real-time monitoring of delivery staff activities.
+
+Non-Functional Requirements
+
+    NFR1: The system shall be accessible 24/7 through any modern web browser.
+    NFR2: The system shall respond to user actions within 3 seconds.
+    NFR3: The system shall use SSL to encrypt data transmission.
+    NFR4: The system shall store backups automatically every 24 hours.
+    NFR5: The system shall be scalable to support over 10,000 users concurrently.
