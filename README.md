@@ -27,7 +27,7 @@ An individual or organization that initiates the shipment of a parcel through th
 
         Create parcel delivery requests.
 
-        Provide details of the receiver and parcel (e.g., destination, weight,            description).
+        Provide details of the receiver and parcel (e.g., destination, weight, description).
 
         Track the parcel status.
 
