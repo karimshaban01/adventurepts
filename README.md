@@ -15,6 +15,40 @@ Furthermore, there is currently no effective way to monitor delivery staff. With
 
 Together, these challenges highlight the urgent need for a web-based parcel transportation system that enhances data accuracy, customer interaction, staff monitoring, and overall operational efficiency.
 
+DEFINITION OF TERMS
+SENDER
+RECEIVER
+STAFF
+    Operational personnel responsible for handling, updating, and managing     parcels during transit.
+
+    Responsibilities:
+
+        Log in to manage assigned delivery tasks.
+
+        Update parcel status (e.g., received, in transit, delivered).
+
+        Scan parcels at different stations.
+
+        Generate daily or location-specific parcel reports.
+
+        Communicate with senders or receivers if needed.
+
+
+ADMIN
+
+  The system supervisor with full access and control over system operations, users, and data.
+
+    Responsibilities:
+
+        Manage user accounts (sender, staff, etc.).
+
+        Assign parcels or routes to staff.
+
+        Monitor system activity and generate reports.
+
+        Maintain parcel records and resolve disputes.
+
+        Configure system settings (e.g., branch locations, pricing rules).
 
 OBJECTIVES
 
@@ -23,3 +57,5 @@ To eliminate manual record-keeping by implementing a digital platform that autom
 To enhance customer communication through integrated real-time notifications via email or SMS, and a user-friendly parcel tracking interface.
 
 To ensure data consistency and reliability by using centralized cloud-based databases with built-in validation, backup, and recovery mechanisms.
+
+To enable real-time monitoring of delivery staff by integrating staff activity logging and delivery status updates within the system.
