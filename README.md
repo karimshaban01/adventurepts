@@ -16,8 +16,35 @@ Furthermore, there is currently no effective way to monitor delivery staff. With
 Together, these challenges highlight the urgent need for a web-based parcel transportation system that enhances data accuracy, customer interaction, staff monitoring, and overall operational efficiency.
 
 DEFINITION OF TERMS
+
 SENDER
+
+    An individual or organization that initiates the shipment of a parcel through the system.
+
+    Responsibilities:
+
+        Register and log in to the system.
+
+        Create parcel delivery requests.
+
+        Provide details of the receiver and parcel (e.g., destination, weight,            description).
+
+        Track the parcel status.
+
+        Receive notifications about delivery progress.
+
 RECEIVER
+
+The intended recipient of the parcel who receives updates and confirmation of delivery.
+
+    Responsibilities:
+
+        View parcel details and tracking status (if access is granted).
+
+        Confirm receipt of parcel (optional feature).
+
+        Provide feedback or complaint about service.
+
 STAFF
     Operational personnel responsible for handling, updating, and managing     parcels during transit.
 
