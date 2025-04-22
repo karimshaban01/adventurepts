@@ -879,7 +879,7 @@
                 $mail->Host       = 'smtp.gmail.com';   // SMTP server
                 $mail->SMTPAuth   = true;
                 $mail->Username   = 'karimxhaban@gmail.com';   // SMTP username
-                $mail->Password   = 'szua wsjf txyo kpmd ';       // SMTP password
+                $mail->Password   = '';       // SMTP password
                 $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
                 $mail->Port       = 587;
 
