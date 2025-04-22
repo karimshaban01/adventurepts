@@ -135,3 +135,11 @@ SMS Gateway :
 QR Code :
 
     JavaScript
+
+
+Future Enhancements
+
+    Add mobile app version
+    Integrate GPS-based tracking
+    Enable payment gateway for parcel billing
+    Use AI to estimate delivery times based on traffic/route
