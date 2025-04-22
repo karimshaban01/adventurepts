@@ -80,10 +80,10 @@ The system supervisor with full access and control over system operations, users
 
 OBJECTIVES
 
-To eliminate manual record-keeping by implementing a digital platform that automates parcel data entry, storage, and retrieval.
+    To eliminate manual record-keeping by implementing a digital platform that automates parcel data entry, storage, and retrieval.
 
-To enhance customer communication through integrated real-time notifications via email or SMS, and a user-friendly parcel tracking interface.
+    To enhance customer communication through integrated real-time notifications via email or SMS, and a user-friendly parcel tracking interface.
 
-To ensure data consistency and reliability by using centralized cloud-based databases with built-in validation, backup, and recovery mechanisms.
+    To ensure data consistency and reliability by using centralized cloud-based databases with built-in validation, backup, and recovery mechanisms.
 
-To enable real-time monitoring of delivery staff by integrating staff activity logging and delivery status updates within the system.
+    To enable real-time monitoring of delivery staff by integrating staff activity logging and delivery status updates within the system.
