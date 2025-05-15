@@ -79,6 +79,10 @@ jobs:
     name: Build and deploy to OpenShift
     runs-on: ubuntu-latest
     environment: production
+    permissions:
+      contents: read
+      packages: write
+      id-token: write
 
     outputs:
       ROUTE: ${{ steps.deploy-and-expose.outputs.route }}
