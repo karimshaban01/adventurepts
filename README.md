@@ -1,5 +1,5 @@
 INTRODUCTION
-
+ 
 This report outlines the design and implementation of the Adventure Parcel Transportation System (Adventurepts), developed to address inefficiencies in manual parcel handling for bus companies and other cargo logistics companies. 
 The system enhances transparency, tracking accuracy, and user accessibility across all parcel logistics processes.
 
